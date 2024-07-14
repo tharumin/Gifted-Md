@@ -1,7 +1,7 @@
 {
   "name": "gifted-md",
   "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
+  "description": "gifted latest multi device whatsapp bot",
   "main": "./gifted/gifted.js",
   "type": "module",
   "engines" : { "node": "v22.4.0", "npm": "10.8.1" },
